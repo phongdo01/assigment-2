@@ -161,3 +161,4 @@ function convertAsciiCode(array) {
     return str;
 }
 //console.log(convertAsciiCode([65, 66, 67, 97, 98]))
+// test it again
